@@ -31,6 +31,8 @@ local.properties
 *.iml
 *.hprof
 .cxx/
+app/src/main/res/values/strings.xml
+
 
 # node.js
 #
