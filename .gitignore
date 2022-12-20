@@ -31,8 +31,6 @@ local.properties
 *.iml
 *.hprof
 .cxx/
-app/src/main/res/values/strings.xml
-
 
 # node.js
 #
@@ -64,3 +62,4 @@ buck-out/
 # Ruby / CocoaPods
 /ios/Pods/
 /vendor/bundle/
+/android/app/src/main/res/values/strings.xml
